@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://blogger-app-99.infinityfreeapp.com">
-    <img src="./assets/BlogApp.JPG" alt="Logo" width="450" height="660">
+    <img src="./assets/BlogApp.JPG" alt="Logo" width="1080" height="440">
   </a>
 
   <h1 align="center">Blogger App</h1>
@@ -52,7 +52,7 @@
 
 ## Blogger App
 
-Blogger App is a User-friendly Task Management Application built with Love. [Click to open](http://blogger-app-99.infinityfreeapp.com)
+Blogger App is a User-friendly Blog Management Application built with Love. [Click to open](http://blogger-app-99.infinityfreeapp.com)
 <br><br>
 <img src="./assets/mobile.JPG" alt="Logo">
 
