@@ -28,7 +28,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#blogger-app">Blogger App</a></li>
-        <li><a href="#our-aim">Our Aim</a></li>
+        <li><a href="#aim">Aim</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -56,7 +56,7 @@ Blogger App is a User-friendly Blog Management Application built with Love. [Cli
 <br><br>
 <img src="./assets/mobile.JPG" alt="Logo">
 
-## Our Aim
+## Aim
 
 I believe a clean and simple blogging application helps you be more creative and get things done. We're all about providing a hassle-free blogging experience. Plus, this app will always be free for everyone to use. We think everyone should have access to a great tool for expressing themselves online. So, we're committed to keeping things simple, free, and open for everyone, always.
 
